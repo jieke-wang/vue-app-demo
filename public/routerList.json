@@ -1,0 +1,38 @@
+[
+    {
+        "path": "/info",
+        "name": "Info",
+        "meta": {
+            "title": "个人中心",
+            "icon": "el-icon-user-solid",
+            "isShow": true
+        }
+    },
+    {
+        "path": "/password",
+        "name": "Password",
+        "meta": {
+            "title": "修改密码",
+            "icon": "el-icon-menu",
+            "isShow": true
+        }
+    },
+    {
+        "path": "/userList",
+        "name": "UserList",
+        "meta": {
+            "title": "用户列表",
+            "icon": "el-icon-menu",
+            "isShow": true
+        }
+    },
+    {
+        "path": "/user",
+        "name": "User",
+        "meta": {
+            "title": "用户信息",
+            "icon": "el-icon-menu",
+            "isShow": true
+        }
+    }
+]
