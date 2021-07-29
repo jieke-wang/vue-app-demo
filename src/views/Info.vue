@@ -76,6 +76,7 @@ export default {
     //   }
     // );
 
+    // 多对象监听
     watch([() => person.name, value], ([name, value], [preName, preValue]) => {
       // debugger;
       console.log({
