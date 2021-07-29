@@ -63,11 +63,13 @@ export default {
     };
 
     return {
-      NavTab,
       goRouter,
       logout,
     };
   },
+  components:{
+    NavTab
+  }
 };
 </script>
 
